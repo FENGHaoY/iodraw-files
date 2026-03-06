@@ -45,12 +45,6 @@
             <mxPoint x="376.5" y="143" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.59;exitY=1.03;exitDx=0;exitDy=0;startSize=0;exitPerimeter=0;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="488.08" y="172" as="sourcePoint" />
-            <mxPoint x="488.08" y="219" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-25" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;结构编码器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="432.5" y="214" width="105" height="57" as="geometry" />
         </mxCell>
@@ -130,8 +124,14 @@
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="485" y="266" as="sourcePoint" />
-            <mxPoint x="485" y="307" as="targetPoint" />
+            <mxPoint x="484.58" y="271" as="sourcePoint" />
+            <mxPoint x="484.58" y="312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xtcWuN74V35M-eTHw5BS-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="252.5" y="182.0000000000001" as="sourcePoint" />
+            <mxPoint x="253" y="224" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
