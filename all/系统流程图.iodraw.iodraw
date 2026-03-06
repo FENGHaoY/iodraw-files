@@ -155,6 +155,9 @@
             <mxPoint x="432.5" y="555" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xtcWuN74V35M-eTHw5BS-85" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;Token序列&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="548" y="603" width="80" height="23" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
