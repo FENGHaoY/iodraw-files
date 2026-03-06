@@ -51,17 +51,13 @@
             <mxPoint x="488.08" y="219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-25" target="xtcWuN74V35M-eTHw5BS-45">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-25">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="485" y="300" />
-              <mxPoint x="487" y="300" />
-              <mxPoint x="487" y="332" />
-            </Array>
+            <mxPoint x="488.5" y="315.3634796142578" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-25" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;结构编码器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="432.5" y="223" width="105" height="57" as="geometry" />
+          <mxGeometry x="436" y="220" width="105" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-26">
           <mxGeometry relative="1" as="geometry">
@@ -69,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-26" value="合并分割" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;gradientColor=none;dashed=1;fontStyle=1;strokeColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="190" y="226" width="105" height="57" as="geometry" />
+          <mxGeometry x="190" y="214" width="105" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-52" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="170" y="312" width="392" height="40" as="geometry" />
