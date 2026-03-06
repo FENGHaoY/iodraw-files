@@ -49,6 +49,9 @@
         <mxCell id="xtcWuN74V35M-eTHw5BS-26" value="合并分割" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;gradientColor=none;dashed=1;fontStyle=1;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="182" y="270" width="105" height="57" as="geometry" />
         </mxCell>
+        <mxCell id="xtcWuN74V35M-eTHw5BS-28" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="212" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
