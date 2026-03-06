@@ -149,8 +149,8 @@
             <mxPoint x="432.5" y="555" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-81" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="701" y="307" width="180" height="120" as="geometry" />
+        <mxCell id="xtcWuN74V35M-eTHw5BS-81" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;Token序列&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="701" y="307" width="69" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
