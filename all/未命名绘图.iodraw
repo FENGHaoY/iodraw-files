@@ -51,6 +51,15 @@
             <mxPoint x="488.08" y="219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xtcWuN74V35M-eTHw5BS-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-25" target="xtcWuN74V35M-eTHw5BS-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="300" />
+              <mxPoint x="487" y="300" />
+              <mxPoint x="487" y="332" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-25" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;结构编码器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="432.5" y="223" width="105" height="57" as="geometry" />
         </mxCell>
