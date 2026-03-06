@@ -120,9 +120,12 @@
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="375.58000000000004" y="391.3634796142578" as="targetPoint" />
-            <mxPoint x="376.08000000000004" y="353" as="sourcePoint" />
+            <mxPoint x="364.00000000000006" y="477.3634796142578" as="targetPoint" />
+            <mxPoint x="364.50000000000006" y="439" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xtcWuN74V35M-eTHw5BS-58" value="分割掩码" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="196.5" y="143" width="105" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
