@@ -64,7 +64,7 @@
         <mxCell id="xtcWuN74V35M-eTHw5BS-26" value="合并分割" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;gradientColor=none;dashed=1;fontStyle=1;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="182" y="270" width="105" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-52" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
           <mxGeometry x="162" y="368" width="392" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-51" value="" style="group" vertex="1" connectable="0" parent="1">
