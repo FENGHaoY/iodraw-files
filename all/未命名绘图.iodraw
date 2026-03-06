@@ -46,6 +46,11 @@
         <mxCell id="xtcWuN74V35M-eTHw5BS-25" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;结构编码器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="428" y="276" width="105" height="57" as="geometry" />
         </mxCell>
+        <mxCell id="xtcWuN74V35M-eTHw5BS-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="234.5" y="368.58566792806005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-26" value="合并分割" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;gradientColor=none;dashed=1;fontStyle=1;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="182" y="270" width="105" height="57" as="geometry" />
         </mxCell>
