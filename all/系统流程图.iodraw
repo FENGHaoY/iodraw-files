@@ -10,7 +10,7 @@
         <mxCell id="xtcWuN74V35M-eTHw5BS-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-2" target="xtcWuN74V35M-eTHw5BS-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-2" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 16px; line-height: 125%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Structure Flow Transformer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-2" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 16px; line-height: 125%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Structure Flow Transformer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;dashed=1;fontSize=16;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="432.5" y="133" width="105" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
@@ -19,7 +19,7 @@
             <mxPoint x="365.5800000000002" y="171.74000000000012" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-4" value="图像编码器" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-4" value="图像编码器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;dashed=1;fontSize=16;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="313.5" y="133" width="105" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="xtcWuN74V35M-eTHw5BS-26">
@@ -51,7 +51,7 @@
             <mxPoint x="376.5" y="143" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-25" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;结构编码器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-25" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;结构编码器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;dashed=1;fontSize=17;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="432.5" y="218" width="105" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-26">
