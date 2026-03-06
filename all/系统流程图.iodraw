@@ -137,10 +137,16 @@
         <mxCell id="xtcWuN74V35M-eTHw5BS-77" value="&lt;h2 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;输出可动三维模型&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;fontSize=18;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="291" y="585" width="150" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-73">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-58" target="xtcWuN74V35M-eTHw5BS-77">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="225.5" y="610" as="targetPoint" />
-            <mxPoint x="291.5" y="564" as="sourcePoint" />
+            <mxPoint x="161" y="590" as="targetPoint" />
+            <mxPoint x="301.5" y="517" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xtcWuN74V35M-eTHw5BS-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="376" y="595" as="targetPoint" />
+            <mxPoint x="310" y="536" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
