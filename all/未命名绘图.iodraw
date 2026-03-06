@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xtcWuN74V35M-eTHw5BS-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-2" target="xtcWuN74V35M-eTHw5BS-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-2" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 16px; line-height: 125%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Structure Flow Transformer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="432.5" y="133" width="105" height="57" as="geometry" />
         </mxCell>
@@ -126,12 +129,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="484.58" y="271" as="sourcePoint" />
             <mxPoint x="484.58" y="312" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.462;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="xtcWuN74V35M-eTHw5BS-25">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="481" y="188" as="sourcePoint" />
-            <mxPoint x="531" y="138" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
