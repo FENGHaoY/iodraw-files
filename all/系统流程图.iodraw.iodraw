@@ -156,10 +156,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-85" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;可动三维生成架构图&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="486" y="550" width="149" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.84;entryY=1.211;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-85" target="xtcWuN74V35M-eTHw5BS-85">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="469" y="545" width="149" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
