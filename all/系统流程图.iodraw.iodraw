@@ -114,7 +114,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-54" value="边界框生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=17;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="313.5" y="366" width="105" height="57" as="geometry" />
+          <mxGeometry x="313.5" y="377" width="105" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
