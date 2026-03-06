@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xtcWuN74V35M-eTHw5BS-2" value="&lt;span style=&quot;font-size: 17px; line-height: 125%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;Structure Flow Transformer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-2" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 16px; line-height: 125%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Structure Flow Transformer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="428" y="171" width="105" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-4" value="图像编码器" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-4" value="图像编码器" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="309" y="171" width="105" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-5" value="分割掩码" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-5" value="分割掩码" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="182" y="171" width="105" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-19" value="&lt;h2&gt;图像输入&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;" vertex="1" parent="1">
