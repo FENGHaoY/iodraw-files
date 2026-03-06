@@ -125,14 +125,14 @@
         <mxCell id="xtcWuN74V35M-eTHw5BS-59" value="部件生成" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="385" y="469" width="105" height="57" as="geometry" />
         </mxCell>
+        <mxCell id="xtcWuN74V35M-eTHw5BS-71" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="146" y="91" width="440" height="440" as="geometry" />
+        </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="484.58" y="271" as="sourcePoint" />
             <mxPoint x="484.58" y="312" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-71" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="509" y="104" width="419" height="419" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
