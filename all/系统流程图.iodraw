@@ -134,6 +134,9 @@
             <mxPoint x="484.58" y="312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xtcWuN74V35M-eTHw5BS-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-73" target="xtcWuN74V35M-eTHw5BS-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
