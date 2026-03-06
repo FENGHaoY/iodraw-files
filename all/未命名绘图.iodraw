@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-26" value="合并分割" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;gradientColor=none;dashed=1;fontStyle=1;strokeColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="190" y="214" width="105" height="57" as="geometry" />
+          <mxGeometry x="190" y="226" width="105" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-52" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="170" y="312" width="392" height="40" as="geometry" />
