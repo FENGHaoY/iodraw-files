@@ -155,7 +155,7 @@
             <mxPoint x="432.5" y="555" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-85" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;可动三维生成架构图&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;align=center;" vertex="1" parent="1">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-85" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;可动三维生成架构图&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="469" y="545" width="149" height="23" as="geometry" />
         </mxCell>
       </root>
