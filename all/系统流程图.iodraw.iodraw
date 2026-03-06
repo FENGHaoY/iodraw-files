@@ -104,6 +104,9 @@
         <mxCell id="xtcWuN74V35M-eTHw5BS-45" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="xtcWuN74V35M-eTHw5BS-51">
           <mxGeometry x="330" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xtcWuN74V35M-eTHw5BS-81" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;Token序列&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="xtcWuN74V35M-eTHw5BS-51">
+          <mxGeometry x="280" y="30" width="80" height="23" as="geometry" />
+        </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-54" target="xtcWuN74V35M-eTHw5BS-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -148,9 +151,6 @@
             <mxPoint x="365" y="583" as="targetPoint" />
             <mxPoint x="432.5" y="555" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-81" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;Token序列&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="701" y="307" width="69" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
