@@ -134,7 +134,7 @@
             <mxPoint x="484.58" y="312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-77" value="&lt;h2 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;输出可动三维模型&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontSize=18;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-77" value="&lt;h2 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;输出可动三维模型&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;fontSize=18;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="291" y="556" width="150" height="53" as="geometry" />
         </mxCell>
       </root>
