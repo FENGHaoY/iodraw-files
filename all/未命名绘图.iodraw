@@ -46,7 +46,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-25" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;结构编码器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="432.5" y="214" width="105" height="57" as="geometry" />
+          <mxGeometry x="432.5" y="218" width="105" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-26">
           <mxGeometry relative="1" as="geometry">
@@ -128,7 +128,7 @@
             <mxPoint x="484.58" y="312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-65" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.462;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="xtcWuN74V35M-eTHw5BS-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="481" y="188" as="sourcePoint" />
             <mxPoint x="531" y="138" as="targetPoint" />
