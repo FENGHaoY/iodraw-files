@@ -14,7 +14,7 @@
           <mxGeometry x="182" y="171" width="105" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-19" value="&lt;h2&gt;图像输入&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="309" y="69" width="105" height="57" as="geometry" />
+          <mxGeometry x="309" y="67" width="105" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-19" target="xtcWuN74V35M-eTHw5BS-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -26,6 +26,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="372" y="136" as="sourcePoint" />
             <mxPoint x="245" y="181" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xtcWuN74V35M-eTHw5BS-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-19" target="xtcWuN74V35M-eTHw5BS-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="372" y="136" as="sourcePoint" />
+            <mxPoint x="372" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
