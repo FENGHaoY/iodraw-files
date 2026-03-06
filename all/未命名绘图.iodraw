@@ -7,16 +7,19 @@
         <mxCell id="xtcWuN74V35M-eTHw5BS-2" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 16px; line-height: 125%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;Structure Flow Transformer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="428" y="171" width="105" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-4">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="361.5000000000002" y="369.5116221110027" as="targetPoint" />
+            <mxPoint x="365.0000000000002" y="351.5116221110027" as="targetPoint" />
+            <mxPoint x="365.0000000000002" y="210.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-4" value="图像编码器" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="309" y="171" width="105" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-5" target="xtcWuN74V35M-eTHw5BS-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xtcWuN74V35M-eTHw5BS-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="xtcWuN74V35M-eTHw5BS-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="238" y="210.0000000000001" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-5" value="分割掩码" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="182" y="171" width="105" height="57" as="geometry" />
@@ -44,31 +47,31 @@
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480.08" y="228" as="sourcePoint" />
-            <mxPoint x="480.08" y="275" as="targetPoint" />
+            <mxPoint x="483.58" y="210" as="sourcePoint" />
+            <mxPoint x="483.58" y="257" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="486.5" y="354.3634796142578" as="targetPoint" />
+            <mxPoint x="484" y="353.3634796142578" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-25" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;结构编码器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;dashed=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="434" y="259" width="105" height="57" as="geometry" />
+          <mxGeometry x="431.5" y="258" width="105" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xtcWuN74V35M-eTHw5BS-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240.5" y="351.58566792806005" as="targetPoint" />
+            <mxPoint x="238" y="350.58566792806005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-26" value="合并分割" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;gradientColor=none;dashed=1;fontStyle=1;strokeColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="188" y="253" width="105" height="57" as="geometry" />
+          <mxGeometry x="185.5" y="252" width="105" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-52" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="168" y="351" width="392" height="40" as="geometry" />
+          <mxGeometry x="165.5" y="350" width="392" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-51" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="184" y="356" width="360" height="30" as="geometry" />
+          <mxGeometry x="181.5" y="355" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-29" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="xtcWuN74V35M-eTHw5BS-51">
           <mxGeometry width="30" height="30" as="geometry" />
@@ -111,8 +114,8 @@
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="363.58000000000004" y="420.3634796142578" as="targetPoint" />
-            <mxPoint x="364.08000000000004" y="382" as="sourcePoint" />
+            <mxPoint x="361.08000000000004" y="419.3634796142578" as="targetPoint" />
+            <mxPoint x="361.58000000000004" y="381" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
