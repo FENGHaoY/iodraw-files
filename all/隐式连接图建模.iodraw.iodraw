@@ -16,6 +16,9 @@
         <mxCell id="dR8zl7DGFFRcCwR_85xG-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Transformer Encoder&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-84" y="109" width="250" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dR8zl7DGFFRcCwR_85xG-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dR8zl7DGFFRcCwR_85xG-9" target="dR8zl7DGFFRcCwR_85xG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dR8zl7DGFFRcCwR_85xG-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Tokenizer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-267" y="90" width="120" height="60" as="geometry" />
         </mxCell>
