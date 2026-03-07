@@ -140,6 +140,9 @@
             <mxPoint x="34.5" y="441" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FjbUbz2FZ8HesQmPIkm1-45" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;Token序列&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="78" y="251" width="80" height="23" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
