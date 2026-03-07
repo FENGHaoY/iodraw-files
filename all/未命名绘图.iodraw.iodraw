@@ -19,6 +19,11 @@
         <mxCell id="wntF2iO992UcVWw-xqlO-14" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;SAM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=west;" vertex="1" parent="1">
           <mxGeometry x="200" y="180" width="109" height="53" as="geometry" />
         </mxCell>
+        <mxCell id="wntF2iO992UcVWw-xqlO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wntF2iO992UcVWw-xqlO-15" target="wntF2iO992UcVWw-xqlO-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="359" y="223" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wntF2iO992UcVWw-xqlO-15" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;DINOv2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="200" y="246" width="109" height="53" as="geometry" />
         </mxCell>
