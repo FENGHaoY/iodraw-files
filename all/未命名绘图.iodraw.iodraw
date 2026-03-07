@@ -14,10 +14,12 @@
           <mxGeometry x="235" y="155" width="109" height="53" as="geometry" />
         </mxCell>
         <mxCell id="wntF2iO992UcVWw-xqlO-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="371" y="155" width="109" height="53" as="geometry" />
+          <mxGeometry x="374" y="160" width="109" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="wntF2iO992UcVWw-xqlO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.514;entryY=0.17;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wntF2iO992UcVWw-xqlO-12" target="wntF2iO992UcVWw-xqlO-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wntF2iO992UcVWw-xqlO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wntF2iO992UcVWw-xqlO-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="451" y="149" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
