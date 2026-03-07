@@ -149,8 +149,8 @@
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-51" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;空间条件生成&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;strokeColor=#007FFF;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="70.5" y="342" width="97" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="FjbUbz2FZ8HesQmPIkm1-59" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;可动三维生成架构图&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="490" y="607" width="149" height="23" as="geometry" />
+        <mxCell id="FjbUbz2FZ8HesQmPIkm1-59" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;OmniPart架构图&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="68" y="480" width="149" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
