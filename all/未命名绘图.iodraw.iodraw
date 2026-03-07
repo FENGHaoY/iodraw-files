@@ -146,13 +146,8 @@
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-50" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;部件结构规划&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;strokeColor=#007FFF;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="71" y="-129" width="97" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="FjbUbz2FZ8HesQmPIkm1-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FjbUbz2FZ8HesQmPIkm1-51">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530.0035858154297" y="287.3472595214844" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FjbUbz2FZ8HesQmPIkm1-51" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;部件结构规划&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;strokeColor=#007FFF;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="281" width="97" height="23" as="geometry" />
+        <mxCell id="FjbUbz2FZ8HesQmPIkm1-51" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;空间条件生成&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;strokeColor=#007FFF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="331" width="97" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
