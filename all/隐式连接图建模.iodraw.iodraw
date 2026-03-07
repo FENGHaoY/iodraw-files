@@ -82,8 +82,8 @@
             <mxPoint x="-276.83400000000006" y="220.02" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nq8fzmsDJQaMpbLqlvlc-41" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="65" y="294" width="35" height="35" as="geometry" />
+        <mxCell id="nq8fzmsDJQaMpbLqlvlc-41" value="EOS" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="284" width="35" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
