@@ -68,6 +68,15 @@
         <mxCell id="nq8fzmsDJQaMpbLqlvlc-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-333" y="283" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="nq8fzmsDJQaMpbLqlvlc-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Part-level 3D Bounding Boxes&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="139" width="106" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="nq8fzmsDJQaMpbLqlvlc-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Part-level 3D Bounding Boxes&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="149" width="106" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="nq8fzmsDJQaMpbLqlvlc-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Part-level 3D Bounding Boxes&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="160" width="105" height="105" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
