@@ -47,16 +47,16 @@
           <mxGeometry x="292" y="184.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="dR8zl7DGFFRcCwR_85xG-23" value="Transformer Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="94" width="250" height="60" as="geometry" />
+          <mxGeometry x="378" y="89" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dR8zl7DGFFRcCwR_85xG-24" value="Transformer Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-5" y="104" width="250" height="60" as="geometry" />
+          <mxGeometry x="388" y="99" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dR8zl7DGFFRcCwR_85xG-25" value="Transformer Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="5" y="114" width="250" height="60" as="geometry" />
+          <mxGeometry x="398" y="109" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dR8zl7DGFFRcCwR_85xG-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Transformer Encoder&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="15" y="124" width="250" height="60" as="geometry" />
+        <mxCell id="dR8zl7DGFFRcCwR_85xG-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Edge Decoder&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="408" y="119" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
