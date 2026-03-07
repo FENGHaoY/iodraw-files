@@ -22,9 +22,10 @@
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-6" value="图像编码器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=16;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-84.5" y="19" width="105" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="FjbUbz2FZ8HesQmPIkm1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="FjbUbz2FZ8HesQmPIkm1-15">
+        <mxCell id="FjbUbz2FZ8HesQmPIkm1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-155.5" y="58.000000000000114" as="sourcePoint" />
+            <mxPoint x="-155.5" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-8" value="分割模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=16;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -54,13 +55,11 @@
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-13" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;结构编码器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=17;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="34.5" y="104" width="105" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="FjbUbz2FZ8HesQmPIkm1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FjbUbz2FZ8HesQmPIkm1-15">
+        <mxCell id="FjbUbz2FZ8HesQmPIkm1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-155.5" y="198.58566792806005" as="targetPoint" />
+            <mxPoint x="-155.5" y="157" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="FjbUbz2FZ8HesQmPIkm1-15" value="合并分割" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;dashed=1;fontStyle=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="-208" y="100" width="105" height="57" as="geometry" />
         </mxCell>
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-16" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-228" y="198" width="392" height="40" as="geometry" />
@@ -129,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-38" value="&lt;h2 style=&quot;font-size: 18px;&quot;&gt;三维模型&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;fontSize=18;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="-103" y="467" width="150" height="53" as="geometry" />
+          <mxGeometry x="-103" y="469" width="150" height="53" as="geometry" />
         </mxCell>
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FjbUbz2FZ8HesQmPIkm1-36">
           <mxGeometry relative="1" as="geometry">
