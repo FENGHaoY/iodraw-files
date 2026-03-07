@@ -20,13 +20,16 @@
           <mxGeometry x="-177" y="92" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dR8zl7DGFFRcCwR_85xG-10" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Part-level 3D Bounding Boxes&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-338" y="62" width="106" height="106" as="geometry" />
+          <mxGeometry x="-349" y="52" width="106" height="106" as="geometry" />
         </mxCell>
         <mxCell id="dR8zl7DGFFRcCwR_85xG-12" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Part-level 3D Bounding Boxes&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-328" y="72" width="106" height="106" as="geometry" />
+          <mxGeometry x="-339" y="62" width="106" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="dR8zl7DGFFRcCwR_85xG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dR8zl7DGFFRcCwR_85xG-13" target="dR8zl7DGFFRcCwR_85xG-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dR8zl7DGFFRcCwR_85xG-13" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Part-level 3D Bounding Boxes&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-318" y="82" width="106" height="106" as="geometry" />
+          <mxGeometry x="-329" y="72" width="106" height="106" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
