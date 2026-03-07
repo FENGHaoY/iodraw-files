@@ -110,7 +110,7 @@
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-30" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;Token序列&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;" vertex="1" parent="FjbUbz2FZ8HesQmPIkm1-17">
           <mxGeometry x="280" y="38" width="80" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="FjbUbz2FZ8HesQmPIkm1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FjbUbz2FZ8HesQmPIkm1-32" target="FjbUbz2FZ8HesQmPIkm1-36">
+        <mxCell id="FjbUbz2FZ8HesQmPIkm1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="FjbUbz2FZ8HesQmPIkm1-32" target="FjbUbz2FZ8HesQmPIkm1-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-32" value="边界框生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=17;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
