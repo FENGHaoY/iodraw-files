@@ -131,15 +131,12 @@
             <mxPoint x="86.57999999999998" y="198" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FjbUbz2FZ8HesQmPIkm1-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FjbUbz2FZ8HesQmPIkm1-38" target="FjbUbz2FZ8HesQmPIkm1-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-38" value="&lt;h2 style=&quot;font-size: 18px;&quot;&gt;三维模型&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;fontSize=18;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="-103" y="450" width="150" height="52" as="geometry" />
+          <mxGeometry x="-103" y="445" width="150" height="52" as="geometry" />
         </mxCell>
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FjbUbz2FZ8HesQmPIkm1-36">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-33" y="469" as="targetPoint" />
+            <mxPoint x="-30" y="446" as="targetPoint" />
             <mxPoint x="34.5" y="441" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
