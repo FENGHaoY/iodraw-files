@@ -36,19 +36,19 @@
         <mxCell id="xtcWuN74V35M-eTHw5BS-19" value="&lt;h2&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;图像输入&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="313.5" y="29" width="105" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xtcWuN74V35M-eTHw5BS-19" target="xtcWuN74V35M-eTHw5BS-5" edge="1">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="xtcWuN74V35M-eTHw5BS-19" target="xtcWuN74V35M-eTHw5BS-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="394.5" y="299" as="sourcePoint" />
             <mxPoint x="444.5" y="249" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xtcWuN74V35M-eTHw5BS-19" target="xtcWuN74V35M-eTHw5BS-4" edge="1">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="xtcWuN74V35M-eTHw5BS-19" target="xtcWuN74V35M-eTHw5BS-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="376.5" y="98" as="sourcePoint" />
             <mxPoint x="249.5" y="143" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xtcWuN74V35M-eTHw5BS-19" target="xtcWuN74V35M-eTHw5BS-2" edge="1">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="xtcWuN74V35M-eTHw5BS-19" target="xtcWuN74V35M-eTHw5BS-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="376.5" y="98" as="sourcePoint" />
             <mxPoint x="376.5" y="143" as="targetPoint" />
@@ -157,12 +157,6 @@
         </mxCell>
         <mxCell id="xtcWuN74V35M-eTHw5BS-85" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;可动三维生成架构图&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="490" y="607" width="149" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="wWLyEj4BBmv6sYBLAG52-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="356" y="89" as="sourcePoint" />
-            <mxPoint x="406" y="39" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
