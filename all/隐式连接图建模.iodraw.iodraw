@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nq8fzmsDJQaMpbLqlvlc-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-86" y="276" width="154" height="143" as="geometry" />
+          <mxGeometry x="-91" y="277" width="160" height="148" as="geometry" />
         </mxCell>
         <mxCell id="dR8zl7DGFFRcCwR_85xG-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;Causal Transformer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-439" y="222" width="566" height="46" as="geometry" />
@@ -159,6 +159,9 @@
         </mxCell>
         <mxCell id="nq8fzmsDJQaMpbLqlvlc-68" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 17px;&quot;&gt;关节信息Token&lt;/h1&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="-78" y="384" width="124.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="nq8fzmsDJQaMpbLqlvlc-71" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-166" y="365" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
