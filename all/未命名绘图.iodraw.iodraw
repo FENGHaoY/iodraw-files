@@ -27,14 +27,17 @@
         <mxCell id="wntF2iO992UcVWw-xqlO-15" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;DINOv2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="200" y="246" width="109" height="53" as="geometry" />
         </mxCell>
+        <mxCell id="wntF2iO992UcVWw-xqlO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wntF2iO992UcVWw-xqlO-19" target="wntF2iO992UcVWw-xqlO-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wntF2iO992UcVWw-xqlO-19" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="349" y="195.5" width="22" height="22" as="geometry" />
         </mxCell>
         <mxCell id="wntF2iO992UcVWw-xqlO-25" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;MLP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="496" width="109" height="53" as="geometry" />
+          <mxGeometry x="400" y="180" width="109" height="53" as="geometry" />
         </mxCell>
         <mxCell id="wntF2iO992UcVWw-xqlO-30" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Pixel Label&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="307" y="536" width="97" height="63" as="geometry" />
+          <mxGeometry x="549" y="212" width="97" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
