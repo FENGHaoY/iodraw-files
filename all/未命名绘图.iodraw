@@ -8,10 +8,16 @@
           <mxGeometry x="-148" y="41" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dR8zl7DGFFRcCwR_85xG-3" value="Transformer Encoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4" y="124" width="250" height="60" as="geometry" />
+          <mxGeometry x="-22" y="65" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dR8zl7DGFFRcCwR_85xG-4" value="Transformer Encoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14" y="134" width="250" height="60" as="geometry" />
+          <mxGeometry x="-12" y="75" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dR8zl7DGFFRcCwR_85xG-5" value="Transformer Encoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2" y="85" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dR8zl7DGFFRcCwR_85xG-6" value="Transformer Encoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8" y="95" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
