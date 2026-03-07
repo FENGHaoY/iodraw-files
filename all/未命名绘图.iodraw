@@ -17,7 +17,7 @@
           <mxGeometry x="8" y="95" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dR8zl7DGFFRcCwR_85xG-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Tokenizer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-177" y="92" width="120" height="60" as="geometry" />
+          <mxGeometry x="-178" y="95" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dR8zl7DGFFRcCwR_85xG-10" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Part-level 3D Bounding Boxes&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-349" y="52" width="106" height="106" as="geometry" />
