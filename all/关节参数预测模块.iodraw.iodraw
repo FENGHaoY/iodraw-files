@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3lz7HrETsVU2yxpCVfXK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-475.5" y="124" width="639" height="319" as="geometry" />
+        </mxCell>
         <mxCell id="nq8fzmsDJQaMpbLqlvlc-69" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#b85450;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-91" y="277" width="160" height="148" as="geometry" />
         </mxCell>
@@ -162,9 +165,6 @@
         </mxCell>
         <mxCell id="nq8fzmsDJQaMpbLqlvlc-72" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 17px;&quot;&gt;Token&lt;/h1&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="-361" y="124" width="66" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="3lz7HrETsVU2yxpCVfXK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-216" y="385" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
