@@ -145,7 +145,7 @@
         <mxCell id="nq8fzmsDJQaMpbLqlvlc-60" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-300" y="378" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="nq8fzmsDJQaMpbLqlvlc-62" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;gradientColor=none;strokeColor=#FFE6CC;" vertex="1" parent="1">
+        <mxCell id="nq8fzmsDJQaMpbLqlvlc-62" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;gradientColor=none;strokeColor=#FFE6CC;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="-210" y="352" width="149" height="50" as="geometry" />
         </mxCell>
       </root>
