@@ -141,7 +141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-45" value="&#xa;&lt;span style=&quot;font-size:18.0pt;font-family:微软雅黑;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-font-family:微软雅黑;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;color:#1F2937;mso-font-kerning:12.0pt;&#xa;language:en-US;mso-style-textfill-type:solid;mso-style-textfill-fill-color:&#xa;#1F2937;mso-style-textfill-fill-alpha:100.0%&quot;&gt;部件结构规划&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="353" y="-28" width="151" height="93" as="geometry" />
+          <mxGeometry x="353" y="-22" width="163" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="-240" y="357" width="412" height="80" as="geometry" />
