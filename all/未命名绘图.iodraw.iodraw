@@ -123,7 +123,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-36" value="部件生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=16;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-84.5" y="353" width="105" height="57" as="geometry" />
+          <mxGeometry x="-84.5" y="371" width="105" height="57" as="geometry" />
         </mxCell>
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FjbUbz2FZ8HesQmPIkm1-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -141,7 +141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-45" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;Token序列&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="78" y="251" width="80" height="23" as="geometry" />
+          <mxGeometry x="98" y="334" width="80" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
