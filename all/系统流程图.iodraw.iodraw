@@ -116,13 +116,13 @@
         <mxCell id="xtcWuN74V35M-eTHw5BS-54" value="边界框生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=17;fontStyle=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="313.5" y="375" width="105" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="366" y="373" as="targetPoint" />
             <mxPoint x="366.08000000000004" y="343" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xtcWuN74V35M-eTHw5BS-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xtcWuN74V35M-eTHw5BS-54" target="xtcWuN74V35M-eTHw5BS-58" edge="1">
+        <mxCell id="xtcWuN74V35M-eTHw5BS-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="xtcWuN74V35M-eTHw5BS-54" target="xtcWuN74V35M-eTHw5BS-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="365.58000000000004" y="477.3634796142578" as="targetPoint" />
             <mxPoint x="366.08000000000004" y="439" as="sourcePoint" />
