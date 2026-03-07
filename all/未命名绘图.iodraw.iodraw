@@ -22,10 +22,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2YeIrUZKPYF8N2ueArt5-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;用户选择&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="346.5" y="244" width="123" height="80" as="geometry" />
+          <mxGeometry x="346.5" y="230" width="123" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2YeIrUZKPYF8N2ueArt5-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;软件初始化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="358" y="162" width="120" height="60" as="geometry" />
+        <mxCell id="2YeIrUZKPYF8N2ueArt5-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;上传图片&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="369" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
