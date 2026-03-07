@@ -19,7 +19,7 @@
         <mxCell id="nq8fzmsDJQaMpbLqlvlc-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-90.5" y="143" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="nq8fzmsDJQaMpbLqlvlc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;shape=flexArrow;" edge="1" parent="1" source="nq8fzmsDJQaMpbLqlvlc-14" target="dR8zl7DGFFRcCwR_85xG-6">
+        <mxCell id="nq8fzmsDJQaMpbLqlvlc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;endArrow=classicThin;endFill=0;" edge="1" parent="1" source="nq8fzmsDJQaMpbLqlvlc-14" target="dR8zl7DGFFRcCwR_85xG-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nq8fzmsDJQaMpbLqlvlc-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
