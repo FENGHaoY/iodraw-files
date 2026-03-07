@@ -143,7 +143,7 @@
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="-240" y="357" width="412" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FjbUbz2FZ8HesQmPIkm1-50" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;部件结构规划&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="FjbUbz2FZ8HesQmPIkm1-50" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;部件结构规划&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="71" y="-129" width="97" height="23" as="geometry" />
         </mxCell>
       </root>
