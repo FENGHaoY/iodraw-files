@@ -27,6 +27,11 @@
             <mxPoint x="451" y="149" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wntF2iO992UcVWw-xqlO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wntF2iO992UcVWw-xqlO-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="298" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wntF2iO992UcVWw-xqlO-19" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="278.5" y="256" width="22" height="22" as="geometry" />
         </mxCell>
