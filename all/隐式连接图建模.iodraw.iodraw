@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nq8fzmsDJQaMpbLqlvlc-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-107" y="288" width="185" height="125" as="geometry" />
-        </mxCell>
         <mxCell id="dR8zl7DGFFRcCwR_85xG-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;Causal Transformer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-439" y="222" width="566" height="46" as="geometry" />
         </mxCell>
@@ -97,7 +94,7 @@
             <mxPoint x="2" y="297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nq8fzmsDJQaMpbLqlvlc-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nq8fzmsDJQaMpbLqlvlc-69">
+        <mxCell id="nq8fzmsDJQaMpbLqlvlc-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="37" y="268" as="sourcePoint" />
             <mxPoint x="37" y="297" as="targetPoint" />
@@ -160,11 +157,8 @@
         <mxCell id="nq8fzmsDJQaMpbLqlvlc-68" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 17px;&quot;&gt;关节信息Token&lt;/h1&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="-78" y="384" width="124.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="nq8fzmsDJQaMpbLqlvlc-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="nq8fzmsDJQaMpbLqlvlc-69">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="37" y="268" as="sourcePoint" />
-            <mxPoint x="37" y="297" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="nq8fzmsDJQaMpbLqlvlc-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-86" y="284" width="203" height="119" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
