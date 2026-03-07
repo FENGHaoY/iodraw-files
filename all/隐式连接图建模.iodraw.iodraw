@@ -85,6 +85,12 @@
         <mxCell id="nq8fzmsDJQaMpbLqlvlc-41" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;EOS&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="92" y="298" width="35" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="nq8fzmsDJQaMpbLqlvlc-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-16" y="278" as="sourcePoint" />
+            <mxPoint x="34" y="228" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
