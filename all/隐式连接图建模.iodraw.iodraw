@@ -157,6 +157,9 @@
         <mxCell id="nq8fzmsDJQaMpbLqlvlc-68" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 17px;&quot;&gt;关节信息Token&lt;/h1&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="-78" y="384" width="124.5" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="nq8fzmsDJQaMpbLqlvlc-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="412" y="249" width="203" height="119" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
