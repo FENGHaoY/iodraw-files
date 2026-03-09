@@ -56,7 +56,7 @@
           <mxGeometry x="311" y="267" width="43" height="24" as="geometry" />
         </mxCell>
         <mxCell id="EiUI20HiLVI2Glf5LY82-7" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Pixel classification MLP&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Times New Roman;fontStyle=0;fontSize=15;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="243" width="151" height="24" as="geometry" />
+          <mxGeometry x="362" y="151" width="151" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
