@@ -10,7 +10,7 @@
         <mxCell id="QCrLkjZZ-Hu-HGawvUhz-7" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#9999FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="13" y="321" width="45" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="QCrLkjZZ-Hu-HGawvUhz-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QCrLkjZZ-Hu-HGawvUhz-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;System&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="156" y="144" width="795" height="143" as="geometry" />
         </mxCell>
       </root>
