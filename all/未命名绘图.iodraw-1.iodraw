@@ -14,7 +14,7 @@
           <mxGeometry x="133" y="135" width="1029" height="264" as="geometry" />
         </mxCell>
         <mxCell id="QCrLkjZZ-Hu-HGawvUhz-12" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 19px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;User&lt;/h1&gt;&lt;div&gt;Please analyze the object in the provided images&lt;br/&gt;and merge the SAM candidate masks into final articulated semantic parts.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Inputs:&lt;br&gt;1. Original RGB image.&amp;nbsp;&lt;/div&gt;&lt;div&gt;2. SAM segmentation overview image.&lt;br/&gt;&lt;br&gt;3. Indexed SAM mask overview image,&lt;br/&gt;   where each candidate region has a unique mask_id.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="130" y="409" width="1029" height="151" as="geometry" />
+          <mxGeometry x="130" y="409" width="970" height="181" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
