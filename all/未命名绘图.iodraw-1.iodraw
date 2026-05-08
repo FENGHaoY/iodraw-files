@@ -11,7 +11,7 @@
           <mxGeometry x="13" y="321" width="45" height="59" as="geometry" />
         </mxCell>
         <mxCell id="QCrLkjZZ-Hu-HGawvUhz-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="266" y="271" width="180" height="120" as="geometry" />
+          <mxGeometry x="156" y="144" width="795" height="143" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
