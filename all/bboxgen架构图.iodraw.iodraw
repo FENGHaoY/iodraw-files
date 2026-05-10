@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HTw9hWC9DzimAX5MasR4-119" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="203" y="315.63" width="198" height="540" as="geometry" />
+          <mxGeometry x="464" y="339" width="198" height="540" as="geometry" />
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-117" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=2;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="-27" y="315.63" width="198" height="540" as="geometry" />
@@ -181,7 +181,7 @@
           <mxGeometry x="55.5" y="162.12" width="60" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-133" value="&lt;h2&gt;Causal Transformer&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="232.5" y="435" width="159.5" height="30" as="geometry" />
+          <mxGeometry x="218.75" y="435" width="159.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
