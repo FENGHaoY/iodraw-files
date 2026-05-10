@@ -25,6 +25,11 @@
         <mxCell id="HTw9hWC9DzimAX5MasR4-33" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-766" y="871" width="558" height="320.75" as="geometry" />
         </mxCell>
+        <mxCell id="HTw9hWC9DzimAX5MasR4-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="HTw9hWC9DzimAX5MasR4-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-200.333251953125" y="487" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-34" value="&lt;h1&gt;图像编码器&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="-444" y="354" width="156" height="77" as="geometry" />
         </mxCell>
