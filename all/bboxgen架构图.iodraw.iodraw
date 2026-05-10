@@ -77,7 +77,10 @@
           <mxGeometry x="-145" y="457.75" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-70" value="&lt;h2&gt;&lt;font face=&quot;Verdana&quot;&gt;图像条件token&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-215" y="420" width="139" height="30" as="geometry" />
+          <mxGeometry x="-216" y="427.75" width="139" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HTw9hWC9DzimAX5MasR4-71" value="&lt;h1&gt;图像编码器&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-434" y="364" width="156" height="77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
