@@ -27,8 +27,8 @@
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-181" y="458" as="targetPoint" />
-            <mxPoint x="-288" y="392" as="sourcePoint" />
+            <mxPoint x="-181" y="456" as="targetPoint" />
+            <mxPoint x="-288" y="390" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-34" value="&lt;h1&gt;图像编码器&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
