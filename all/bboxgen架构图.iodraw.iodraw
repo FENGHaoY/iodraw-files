@@ -25,6 +25,9 @@
         <mxCell id="HTw9hWC9DzimAX5MasR4-33" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-766" y="871" width="558" height="320.75" as="geometry" />
         </mxCell>
+        <mxCell id="HTw9hWC9DzimAX5MasR4-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTw9hWC9DzimAX5MasR4-34" target="HTw9hWC9DzimAX5MasR4-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-34" value="&lt;h1&gt;图像编码器&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="-444" y="354" width="156" height="77" as="geometry" />
         </mxCell>
@@ -54,8 +57,8 @@
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-52" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-287" y="550" as="sourcePoint" />
-            <mxPoint x="-228" y="485" as="targetPoint" />
+            <mxPoint x="-288" y="554.5" as="sourcePoint" />
+            <mxPoint x="-229" y="489.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-55" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
