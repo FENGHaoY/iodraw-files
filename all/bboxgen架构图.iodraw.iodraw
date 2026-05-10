@@ -79,6 +79,9 @@
         <mxCell id="HTw9hWC9DzimAX5MasR4-70" value="&lt;h2&gt;&lt;font face=&quot;Verdana&quot;&gt;图像条件token&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-216" y="427.75" width="139" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HTw9hWC9DzimAX5MasR4-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTw9hWC9DzimAX5MasR4-71" target="HTw9hWC9DzimAX5MasR4-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-71" value="&lt;h1&gt;结构编码器&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="-444" y="705.5" width="156" height="77" as="geometry" />
         </mxCell>
@@ -89,25 +92,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-73" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fillStyle=solid;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-227.5" y="725" width="27" height="27" as="geometry" />
+          <mxGeometry x="-218" y="735.5" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-74" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fillStyle=solid;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-173.5" y="725" width="27" height="27" as="geometry" />
+          <mxGeometry x="-164" y="735.5" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-75" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fillStyle=solid;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-200.5" y="725" width="27" height="27" as="geometry" />
+          <mxGeometry x="-191" y="735.5" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-76" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fillStyle=solid;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-92.5" y="725" width="27" height="27" as="geometry" />
+          <mxGeometry x="-83" y="735.5" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-77" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fillStyle=solid;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-119.5" y="725" width="27" height="27" as="geometry" />
+          <mxGeometry x="-110" y="735.5" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-78" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fillStyle=solid;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-146.5" y="725" width="27" height="27" as="geometry" />
+          <mxGeometry x="-137" y="735.5" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-79" value="&lt;h2&gt;&lt;font face=&quot;Verdana&quot;&gt;3D条件token&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-217.5" y="695" width="139" height="30" as="geometry" />
+          <mxGeometry x="-208" y="705.5" width="139" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
