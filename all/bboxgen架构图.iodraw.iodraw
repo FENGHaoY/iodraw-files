@@ -25,25 +25,25 @@
         <mxCell id="HTw9hWC9DzimAX5MasR4-33" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-766" y="871" width="558" height="320.75" as="geometry" />
         </mxCell>
-        <mxCell id="HTw9hWC9DzimAX5MasR4-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;elbow=vertical;" edge="1" parent="1" source="HTw9hWC9DzimAX5MasR4-34" target="HTw9hWC9DzimAX5MasR4-55">
+        <mxCell id="HTw9hWC9DzimAX5MasR4-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;elbow=vertical;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="HTw9hWC9DzimAX5MasR4-34" target="HTw9hWC9DzimAX5MasR4-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-34" value="&lt;h1&gt;图像编码器&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="-444" y="354" width="156" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="HTw9hWC9DzimAX5MasR4-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;elbow=vertical;" edge="1" parent="1" source="HTw9hWC9DzimAX5MasR4-35" target="HTw9hWC9DzimAX5MasR4-55">
+        <mxCell id="HTw9hWC9DzimAX5MasR4-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;elbow=vertical;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="HTw9hWC9DzimAX5MasR4-35" target="HTw9hWC9DzimAX5MasR4-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-35" value="&lt;h1&gt;掩码嵌入&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="-444" y="507" width="156" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="HTw9hWC9DzimAX5MasR4-39" value="" style="endArrow=classic;html=1;rounded=1;curved=0;strokeWidth=2;fillColor=none;shadow=0;strokeColor=default;" edge="1" parent="1">
+        <mxCell id="HTw9hWC9DzimAX5MasR4-39" value="" style="endArrow=classic;html=1;rounded=1;curved=0;strokeWidth=2;fillColor=#76608a;shadow=0;strokeColor=#432D57;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-517" y="391" as="sourcePoint" />
             <mxPoint x="-445" y="391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTw9hWC9DzimAX5MasR4-40" value="" style="endArrow=classic;html=1;rounded=1;curved=0;strokeWidth=2;fillColor=none;shadow=0;strokeColor=default;" edge="1" parent="1">
+        <mxCell id="HTw9hWC9DzimAX5MasR4-40" value="" style="endArrow=classic;html=1;rounded=1;curved=0;strokeWidth=2;fillColor=#76608a;shadow=0;strokeColor=#432D57;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-516" y="545" as="sourcePoint" />
             <mxPoint x="-444" y="545" as="targetPoint" />
