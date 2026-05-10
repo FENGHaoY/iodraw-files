@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-71" value="&lt;h1&gt;结构编码器&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="-444" y="705.5" width="156" height="77" as="geometry" />
+          <mxGeometry x="-453" y="706" width="156" height="77" as="geometry" />
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-73" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=solid;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="-226" y="731" width="27" height="27" as="geometry" />
