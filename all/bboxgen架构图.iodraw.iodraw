@@ -109,6 +109,12 @@
         <mxCell id="HTw9hWC9DzimAX5MasR4-79" value="&lt;h2&gt;&lt;font face=&quot;Verdana&quot;&gt;3D条件token&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-217.5" y="695" width="139" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HTw9hWC9DzimAX5MasR4-80" value="" style="endArrow=classic;html=1;rounded=1;curved=0;strokeWidth=2;fillColor=#60a917;shadow=0;strokeColor=#2D7600;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-506" y="753.5" as="sourcePoint" />
+            <mxPoint x="-434" y="753.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
