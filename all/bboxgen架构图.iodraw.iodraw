@@ -144,6 +144,9 @@
         <mxCell id="HTw9hWC9DzimAX5MasR4-116" value="&lt;h2&gt;&lt;font face=&quot;Verdana&quot;&gt;体素分支&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="-336.76" y="666" width="115" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HTw9hWC9DzimAX5MasR4-117" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-486.37" y="325.63" width="446.37" height="320.75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
