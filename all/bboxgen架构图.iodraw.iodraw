@@ -180,8 +180,8 @@
         <mxCell id="HTw9hWC9DzimAX5MasR4-128" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="268.5" y="632.12" width="60" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="HTw9hWC9DzimAX5MasR4-134" value="&lt;h2&gt;&lt;font face=&quot;Verdana&quot;&gt;多模态前缀融合&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fillColor=#E5CCFF;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="11" y="333" width="130" height="30" as="geometry" />
+        <mxCell id="HTw9hWC9DzimAX5MasR4-134" value="&lt;h2&gt;&lt;font face=&quot;Verdana&quot;&gt;自回归解码器&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fillColor=#E5CCFF;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="233.5" y="323" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
