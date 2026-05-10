@@ -147,8 +147,8 @@
         <mxCell id="HTw9hWC9DzimAX5MasR4-116" value="&lt;h2&gt;&lt;font face=&quot;Verdana&quot;&gt;体素分支&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="-336.76" y="666" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HTw9hWC9DzimAX5MasR4-118" value="&lt;h2&gt;&lt;font face=&quot;Verdana&quot;&gt;多模态前缀融合&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="11" y="323" width="130" height="30" as="geometry" />
+        <mxCell id="HTw9hWC9DzimAX5MasR4-118" value="&lt;h2&gt;&lt;font face=&quot;Verdana&quot;&gt;多模态前缀融合&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1" y="323" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
