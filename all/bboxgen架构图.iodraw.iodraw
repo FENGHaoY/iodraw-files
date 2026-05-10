@@ -25,7 +25,7 @@
         <mxCell id="HTw9hWC9DzimAX5MasR4-23" value="&lt;h2&gt;&lt;font face=&quot;Verdana&quot;&gt;分割掩码&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="HTw9hWC9DzimAX5MasR4-26">
           <mxGeometry x="5.5" y="145.5" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HTw9hWC9DzimAX5MasR4-28" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#d5e8d4;strokeWidth=2;strokeColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="HTw9hWC9DzimAX5MasR4-28" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=none;strokeWidth=2;strokeColor=#d5e8d4;glass=1;" vertex="1" parent="1">
           <mxGeometry x="-375.37" y="674" width="166.75" height="142" as="geometry" />
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-29" value="&lt;h2&gt;&lt;font face=&quot;Verdana&quot;&gt;体素结构&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
