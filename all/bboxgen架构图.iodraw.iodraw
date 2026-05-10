@@ -135,6 +135,9 @@
         <mxCell id="HTw9hWC9DzimAX5MasR4-103" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#c3a3f0;strokeColor=#3700CC;fillStyle=solid;strokeWidth=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="53" y="591" width="27" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="HTw9hWC9DzimAX5MasR4-114" value="&lt;h2&gt;&lt;font&gt;图像条件token&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-8" y="556" width="139" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
