@@ -77,10 +77,10 @@
           <mxGeometry x="-151" y="492.5" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-59" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-141" y="502.5" width="27" height="27" as="geometry" />
+          <mxGeometry x="-73" y="462.5" width="27" height="27" as="geometry" />
         </mxCell>
         <mxCell id="HTw9hWC9DzimAX5MasR4-60" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-131" y="512.5" width="27" height="27" as="geometry" />
+          <mxGeometry x="-100" y="462.5" width="27" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
