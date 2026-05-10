@@ -34,6 +34,9 @@
         <mxCell id="HTw9hWC9DzimAX5MasR4-21" value="&lt;h2&gt;&lt;font face=&quot;Verdana&quot;&gt;RGB图像&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-349.5" y="294" width="115" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HTw9hWC9DzimAX5MasR4-22" value="&lt;h2&gt;&lt;font face=&quot;Verdana&quot;&gt;分割掩码&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="448.75" width="115" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
