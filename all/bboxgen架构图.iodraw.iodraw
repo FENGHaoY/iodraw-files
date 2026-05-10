@@ -43,10 +43,10 @@
         <mxCell id="HTw9hWC9DzimAX5MasR4-35" value="&lt;h1&gt;掩码编码器&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="-425" y="509" width="156" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="HTw9hWC9DzimAX5MasR4-39" value="" style="endArrow=classic;html=1;rounded=1;curved=0;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="HTw9hWC9DzimAX5MasR4-39" value="" style="endArrow=classic;html=1;rounded=1;curved=0;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-314" y="798" as="sourcePoint" />
-            <mxPoint x="-251" y="798" as="targetPoint" />
+            <mxPoint x="-318" y="773" as="sourcePoint" />
+            <mxPoint x="-255" y="773" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
