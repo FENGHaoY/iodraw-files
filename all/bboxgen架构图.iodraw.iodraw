@@ -138,6 +138,9 @@
         <mxCell id="HTw9hWC9DzimAX5MasR4-114" value="&lt;h2&gt;&lt;font&gt;前缀条件token&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-8" y="556" width="139" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HTw9hWC9DzimAX5MasR4-115" value="&lt;h2&gt;&lt;font face=&quot;Verdana&quot;&gt;分割掩码&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-634.63" y="482.5" width="115" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
