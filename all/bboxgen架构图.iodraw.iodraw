@@ -58,15 +58,6 @@
         <mxCell id="HTw9hWC9DzimAX5MasR4-28" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=none;strokeWidth=2;strokeColor=#89BD6C;glass=0;shadow=0;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="-676.87" y="673" width="180.5" height="142" as="geometry" />
         </mxCell>
-        <mxCell id="HTw9hWC9DzimAX5MasR4-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="HTw9hWC9DzimAX5MasR4-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-182" y="484" as="targetPoint" />
-            <mxPoint x="-281" y="547" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-181" y="546" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
