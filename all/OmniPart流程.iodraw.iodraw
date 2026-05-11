@@ -173,9 +173,10 @@
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-65" value="图像编码器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=16;fontStyle=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="500.5" y="12" width="105" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="FjbUbz2FZ8HesQmPIkm1-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" target="FjbUbz2FZ8HesQmPIkm1-74" edge="1">
+        <mxCell id="FjbUbz2FZ8HesQmPIkm1-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="429.5" y="51.000000000000114" as="sourcePoint" />
+            <mxPoint x="429.5" y="93" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-67" value="部件级分割" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=16;fontStyle=1;strokeColor=#f94645;dashed=1;" parent="1" vertex="1">
@@ -205,13 +206,11 @@
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-72" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;结构编码器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=17;fontStyle=1;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="619.5" y="97" width="105" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="FjbUbz2FZ8HesQmPIkm1-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="FjbUbz2FZ8HesQmPIkm1-74" edge="1">
+        <mxCell id="FjbUbz2FZ8HesQmPIkm1-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="429.5" y="191.58566792806005" as="targetPoint" />
+            <mxPoint x="429.5" y="150" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="FjbUbz2FZ8HesQmPIkm1-74" value="" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;dashed=1;fontStyle=1;strokeColor=#FF0000;fillColor=#f8cecc;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="377" y="93" width="105" height="57" as="geometry" />
         </mxCell>
         <mxCell id="FjbUbz2FZ8HesQmPIkm1-75" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="357" y="191" width="392" height="40" as="geometry" />
@@ -317,6 +316,9 @@
             <mxPoint x="217" y="198" as="sourcePoint" />
             <mxPoint x="267" y="148" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Su61bt-3PiW2z3vuOEKX-1" value="掩码嵌入" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fontStyle=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-198" y="110" width="105" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
