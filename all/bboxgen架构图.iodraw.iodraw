@@ -289,6 +289,9 @@
         <mxCell id="efKC3tAQUIuxbGag6xoE-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fillStyle=solid;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="479" y="782.24" width="27" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="efKC3tAQUIuxbGag6xoE-16" value="&lt;h2&gt;Causal Transformer&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="397.25" y="821" width="159.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
