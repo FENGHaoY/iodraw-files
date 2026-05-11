@@ -296,7 +296,7 @@
           <mxGeometry x="395" y="350.84" width="185" height="165.16" as="geometry" />
         </mxCell>
         <mxCell id="efKC3tAQUIuxbGag6xoE-20" value="&lt;h2&gt;&lt;font face=&quot;Verdana&quot;&gt;分割掩码&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-634.63" y="482.5" width="115" height="30" as="geometry" />
+          <mxGeometry x="435.0000000000001" y="510.5" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
