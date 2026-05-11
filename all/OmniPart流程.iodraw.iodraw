@@ -318,7 +318,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Su61bt-3PiW2z3vuOEKX-1" value="掩码嵌入" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fontStyle=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="-198" y="110" width="105" height="57" as="geometry" />
+          <mxGeometry x="376" y="92.5" width="105" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="Su61bt-3PiW2z3vuOEKX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FjbUbz2FZ8HesQmPIkm1-60" target="FjbUbz2FZ8HesQmPIkm1-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
