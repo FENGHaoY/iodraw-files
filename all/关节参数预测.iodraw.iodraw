@@ -133,7 +133,7 @@
         <mxCell id="xXzbP214SUEXly53FXXk-75" value="&lt;h2&gt;轴参数头&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2201" y="356" width="98" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xXzbP214SUEXly53FXXk-76" value="&lt;h2&gt;运动范围&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="xXzbP214SUEXly53FXXk-76" value="&lt;h2&gt;范围头&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2201" y="465" width="98" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xXzbP214SUEXly53FXXk-78" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -171,6 +171,9 @@
         </mxCell>
         <mxCell id="xXzbP214SUEXly53FXXk-99" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b9e0a5;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2393" y="475" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="xXzbP214SUEXly53FXXk-101" value="&lt;h2&gt;输入特征&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2278" y="27" width="101" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
