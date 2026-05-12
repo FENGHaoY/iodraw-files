@@ -176,7 +176,10 @@
           <mxGeometry x="2320" y="231" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xXzbP214SUEXly53FXXk-102" value="&lt;h2&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;轴参数输出&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="331" width="99" height="30" as="geometry" />
+          <mxGeometry x="2320" y="339.5" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xXzbP214SUEXly53FXXk-103" value="&lt;h2&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;轴参数输出&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="349.5" width="99" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
