@@ -55,6 +55,9 @@
         <mxCell id="xXzbP214SUEXly53FXXk-29" value="&lt;h2&gt;部件连接图&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1371.5" y="410" width="101" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xXzbP214SUEXly53FXXk-30" value="&lt;h2&gt;边界框序列&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1381.5" y="220" width="101" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
