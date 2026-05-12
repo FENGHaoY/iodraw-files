@@ -46,8 +46,8 @@
         <mxCell id="xXzbP214SUEXly53FXXk-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1651" y="358.5" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="xXzbP214SUEXly53FXXk-27" value="&lt;h2&gt;输入与特征表示&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1417" y="48" width="60" height="30" as="geometry" />
+        <mxCell id="xXzbP214SUEXly53FXXk-27" value="&lt;h2&gt;输入与特征表示&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1451.5" y="111" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
