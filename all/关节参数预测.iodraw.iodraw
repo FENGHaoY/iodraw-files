@@ -128,7 +128,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xXzbP214SUEXly53FXXk-74" value="&lt;h2&gt;关节类型&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2201" y="240" width="98" height="50" as="geometry" />
+          <mxGeometry x="2201" y="239" width="98" height="51" as="geometry" />
         </mxCell>
         <mxCell id="xXzbP214SUEXly53FXXk-75" value="&lt;h2&gt;关节轴&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2201" y="317" width="98" height="50" as="geometry" />
