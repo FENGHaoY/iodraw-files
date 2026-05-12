@@ -91,8 +91,8 @@
         <mxCell id="xXzbP214SUEXly53FXXk-41" value="&lt;h2&gt;位置编码&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xXzbP214SUEXly53FXXk-42">
           <mxGeometry x="30.5" y="7.999999999999943" width="101" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xXzbP214SUEXly53FXXk-43" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1587" y="730" width="43" height="43" as="geometry" />
+        <mxCell id="xXzbP214SUEXly53FXXk-43" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2038" y="690" width="39" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
