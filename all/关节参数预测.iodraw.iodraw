@@ -52,7 +52,7 @@
         <mxCell id="xXzbP214SUEXly53FXXk-27" value="&lt;h2&gt;输入与特征表示&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1451.5" y="161" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xXzbP214SUEXly53FXXk-28" value="&lt;h2&gt;输入特征&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xXzbP214SUEXly53FXXk-28" value="&lt;h2&gt;结构特征&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1554" y="364" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xXzbP214SUEXly53FXXk-29" value="&lt;h2&gt;部件连接关系&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
