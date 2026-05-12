@@ -133,8 +133,8 @@
         <mxCell id="xXzbP214SUEXly53FXXk-75" value="&lt;h2&gt;关节轴&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2201" y="347" width="98" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xXzbP214SUEXly53FXXk-76" value="&lt;h2&gt;运动范围&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2201" y="453" width="98" height="50" as="geometry" />
+        <mxCell id="xXzbP214SUEXly53FXXk-76" value="&lt;h2&gt;运动范围&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2201" y="465" width="98" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
