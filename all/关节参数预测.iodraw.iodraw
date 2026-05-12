@@ -8,7 +8,7 @@
           <mxGeometry x="2014" y="949" width="1081" height="549" as="geometry" />
         </mxCell>
         <mxCell id="xXzbP214SUEXly53FXXk-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;strokeColor=#82B366;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="153" width="338" height="481" as="geometry" />
+          <mxGeometry x="1350" y="153" width="346" height="481" as="geometry" />
         </mxCell>
         <mxCell id="xXzbP214SUEXly53FXXk-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;strokeColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="1709" y="150" width="463" height="481" as="geometry" />
@@ -127,7 +127,7 @@
         <mxCell id="xXzbP214SUEXly53FXXk-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.019;entryY=0.669;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="xXzbP214SUEXly53FXXk-43" target="xXzbP214SUEXly53FXXk-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xXzbP214SUEXly53FXXk-74" value="&lt;h2&gt;关节类型&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="xXzbP214SUEXly53FXXk-74" value="&lt;h2&gt;关节类型头&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="2201" y="250" width="98" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xXzbP214SUEXly53FXXk-75" value="&lt;h2&gt;关节轴&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
