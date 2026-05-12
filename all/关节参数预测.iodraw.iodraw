@@ -136,8 +136,11 @@
         <mxCell id="xXzbP214SUEXly53FXXk-76" value="&lt;h2&gt;运动范围&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2201" y="465" width="98" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xXzbP214SUEXly53FXXk-78" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1405" y="19" width="94" height="94" as="geometry" />
+        <mxCell id="xXzbP214SUEXly53FXXk-78" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2231" y="63" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="xXzbP214SUEXly53FXXk-79" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2241" y="73" width="23" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
