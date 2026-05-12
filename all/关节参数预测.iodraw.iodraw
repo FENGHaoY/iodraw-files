@@ -104,7 +104,7 @@
           <mxGeometry x="1931" y="207" width="204" height="303" as="geometry" />
         </mxCell>
         <mxCell id="xXzbP214SUEXly53FXXk-51" value="&lt;h2&gt;Transformer Encoder&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="1932.5" y="212" width="201" height="30" as="geometry" />
+          <mxGeometry x="1932.5" y="211" width="175.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
