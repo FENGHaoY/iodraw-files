@@ -59,7 +59,7 @@
           <mxGeometry x="1371.5" y="410" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xXzbP214SUEXly53FXXk-30" value="&lt;h2&gt;边界框序列&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1381.5" y="220" width="101" height="30" as="geometry" />
+          <mxGeometry x="1369" y="214" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xXzbP214SUEXly53FXXk-31" value="&lt;h2&gt;部件编码器&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1836" y="158" width="135" height="30" as="geometry" />
