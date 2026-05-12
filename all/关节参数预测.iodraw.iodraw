@@ -136,12 +136,6 @@
         <mxCell id="xXzbP214SUEXly53FXXk-74" value="&lt;h2&gt;关节类型头&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="2204" y="230.79" width="98" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xXzbP214SUEXly53FXXk-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xXzbP214SUEXly53FXXk-76" target="xXzbP214SUEXly53FXXk-96">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xXzbP214SUEXly53FXXk-76" value="&lt;h2&gt;范围头&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2204" y="445.79" width="98" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="xXzbP214SUEXly53FXXk-78" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="2327" y="244.29" width="23" height="23" as="geometry" />
         </mxCell>
@@ -154,23 +148,8 @@
         <mxCell id="xXzbP214SUEXly53FXXk-83" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="2396" y="244.29" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="xXzbP214SUEXly53FXXk-96" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b9e0a5;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2326.5" y="459.29" width="23" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="xXzbP214SUEXly53FXXk-97" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b9e0a5;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2349.5" y="459.29" width="23" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="xXzbP214SUEXly53FXXk-98" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b9e0a5;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2372.5" y="459.29" width="23" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="xXzbP214SUEXly53FXXk-99" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b9e0a5;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2395.5" y="459.29" width="23" height="23" as="geometry" />
-        </mxCell>
         <mxCell id="xXzbP214SUEXly53FXXk-101" value="&lt;h2&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;关节类型预测&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2323" y="211.79" width="99" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xXzbP214SUEXly53FXXk-103" value="&lt;h2&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;范围预测&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2323" y="423.79" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xXzbP214SUEXly53FXXk-113" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2204" y="316.29" width="218" height="66.5" as="geometry" />
@@ -194,6 +173,30 @@
           <mxGeometry x="192" y="30" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="xXzbP214SUEXly53FXXk-102" value="&lt;h2&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;轴参数预测&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xXzbP214SUEXly53FXXk-113">
+          <mxGeometry x="119" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xXzbP214SUEXly53FXXk-115" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2204" y="423.79" width="218" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="xXzbP214SUEXly53FXXk-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xXzbP214SUEXly53FXXk-115" source="xXzbP214SUEXly53FXXk-76" target="xXzbP214SUEXly53FXXk-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXzbP214SUEXly53FXXk-76" value="&lt;h2&gt;范围头&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=#82b366;" vertex="1" parent="xXzbP214SUEXly53FXXk-115">
+          <mxGeometry y="22" width="98" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xXzbP214SUEXly53FXXk-96" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b9e0a5;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="xXzbP214SUEXly53FXXk-115">
+          <mxGeometry x="122.5" y="35.5" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="xXzbP214SUEXly53FXXk-97" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b9e0a5;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="xXzbP214SUEXly53FXXk-115">
+          <mxGeometry x="145.5" y="35.5" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="xXzbP214SUEXly53FXXk-98" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b9e0a5;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="xXzbP214SUEXly53FXXk-115">
+          <mxGeometry x="168.5" y="35.5" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="xXzbP214SUEXly53FXXk-99" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b9e0a5;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="xXzbP214SUEXly53FXXk-115">
+          <mxGeometry x="191.5" y="35.5" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="xXzbP214SUEXly53FXXk-103" value="&lt;h2&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;范围预测&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xXzbP214SUEXly53FXXk-115">
           <mxGeometry x="119" width="99" height="30" as="geometry" />
         </mxCell>
       </root>
