@@ -13,7 +13,7 @@
         <mxCell id="5S2RZt6-5MA3fLgLaP3b-4" value="&lt;h2&gt;本文打开状态&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="738.5" y="-160" width="121" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5S2RZt6-5MA3fLgLaP3b-5" value="&lt;h1&gt;GT静止状态&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5S2RZt6-5MA3fLgLaP3b-5" value="&lt;h2&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;GT静止状态&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="959" y="-160" width="121" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5S2RZt6-5MA3fLgLaP3b-7" value="&lt;h2&gt;GT打开状态&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
